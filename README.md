@@ -29,3 +29,19 @@ In this project, you will design an agent for the classic Pa-Mman game, which, t
 - Evaluation function: This function should evaluate the states instead of the action
 
 The suggested answers exist in the [multiagent](https://github.com/Mohadeseh-Atyabi/Pac-Man-AI/tree/main/multiagents) directory.
+
+# Reinforcement learning
+![ezgif com-crop (1)](https://github.com/Mohadeseh-Atyabi/Pac-Man-AI/assets/72689599/383e6e68-a1c2-4731-9ff0-7eae8345f609)
+
+
+In this project, you will implement value iteration and Q-learning. First, you will evaluate your agents in Gridworld and then, apply that on a simulated robot, called Crawler, and the Pac-Man. Here, you can run the gridworld.py in mannual state and use the arrow keys to move on the space. Remember that if you press the up key, the agents obey it in 80% of the time.
+- Value iteration
+- Bridge crossing analysis
+- Policies
+- Asynchronous value iteration
+- Prioritized sweeping value iteration
+- Q-learning
+- Greedy epsilon
+- Pac-Man and Q-learning
+
+The suggested answers exist in the [reinforcement learning](https://github.com/Mohadeseh-Atyabi/Pac-Man-AI/tree/main/reinforcement%20learning) directory.
