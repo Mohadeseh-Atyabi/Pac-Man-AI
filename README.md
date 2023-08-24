@@ -31,7 +31,8 @@ In this project, you will design an agent for the classic Pa-Mman game, which, t
 The suggested answers exist in the [multiagent](https://github.com/Mohadeseh-Atyabi/Pac-Man-AI/tree/main/multiagents) directory.
 
 # Reinforcement learning
-![ezgif com-crop (1)](https://github.com/Mohadeseh-Atyabi/Pac-Man-AI/assets/72689599/caadf33b-f2e8-4abd-843d-c175cbc86cb9)
+![ezgif com-video-to-gif](https://github.com/Mohadeseh-Atyabi/Pac-Man-AI/assets/72689599/57aa2def-7fbf-4550-80ab-75c888246dba)
+
 
 
 In this project, you will implement value iteration and Q-learning. First, you will evaluate your agents in Gridworld and then, apply that on a simulated robot, called Crawler, and the Pac-Man. Here, you can run the gridworld.py in mannual state and use the arrow keys to move on the space. Remember that if you press the up key, the agents obey it in 80% of the time.
