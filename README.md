@@ -31,7 +31,7 @@ In this project, you will design an agent for the classic Pa-Mman game, which, t
 The suggested answers exist in the [multiagent](https://github.com/Mohadeseh-Atyabi/Pac-Man-AI/tree/main/multiagents) directory.
 
 # Reinforcement learning
-![ezgif com-video-to-gif](https://github.com/Mohadeseh-Atyabi/Pac-Man-AI/assets/72689599/57aa2def-7fbf-4550-80ab-75c888246dba)
+![ezgif com-video-to-gif](https://github.com/Mohadeseh-Atyabi/Pac-Man-AI/assets/72689599/eaba1a85-3e9e-47be-b49f-6400a91fade4)
 
 
 
